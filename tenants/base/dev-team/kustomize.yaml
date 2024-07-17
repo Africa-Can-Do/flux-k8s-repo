@@ -6,7 +6,7 @@ metadata:
   namespace: apps
 spec:
   interval: 1m0s
-  path: ./
+  path: ./staging
   prune: false
   serviceAccountName: dev-team
   sourceRef:
